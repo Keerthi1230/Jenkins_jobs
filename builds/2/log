@@ -1,0 +1,6 @@
+Started by user [8mha:////4ANFbqMtnAr8rfS6rONMyA4lq9PjiRAN/E90zI5+u1CHAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZB/dLi1CL97NTUopKMTEMjYwMAiyoEt8YAAAA=[0mADIREDDI KEERTHI
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/File_creation
+[File_creation] $ /bin/sh -xe /tmp/jenkins5693708015366441599.sh
++ echo Hello, Jenkins!
+Finished: SUCCESS
